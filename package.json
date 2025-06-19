@@ -29,9 +29,5 @@
   },
   "bugs": {
     "url": "https://github.com/NaughtySora/naughty-workers/issues"
-  },
-  "devDependencies": {
-    "@types/node": "^22.13.14",
-    "typescript": "^5.8.2"
   }
 }

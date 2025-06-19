@@ -1,5 +1,6 @@
 "use strict";
 
-const WorkersPool = require("./lib/pool.js");
+const WorkersPool = require("./lib/WorkersPool.js");
+const noroutine = require("./lib/noroutine.js");
 
-module.exports = { WorkersPool };
+module.exports = { WorkersPool, noroutine, };
