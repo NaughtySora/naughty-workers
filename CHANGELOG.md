@@ -9,4 +9,3 @@
 
 - pool unstable implementation
 - tests
-- types
