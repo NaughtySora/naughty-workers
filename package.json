@@ -22,12 +22,12 @@
     "types": "tsc -p ./tsconfig.json",
     "test": "node ./test/index.js"
   },
-  "homepage": "https://github.com/NaughtySora/naughty-workers#readme",
+  "homepage": "https://github.com/NaughtySora/WorkersPool#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaughtySora/naughty-workers.git"
+    "url": "git+https://github.com/NaughtySora/WorkersPool.git"
   },
   "bugs": {
-    "url": "https://github.com/NaughtySora/naughty-workers/issues"
+    "url": "https://github.com/NaughtySora/WorkersPool/issues"
   }
 }
